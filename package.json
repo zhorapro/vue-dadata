@@ -1,6 +1,6 @@
 {
   "name": "vue-dadata",
-  "version": "3.0.0-beta.13",
+  "version": "3.0.0-beta.14",
   "description": "Vue component for hinting addresses using dadata.ru",
   "keywords": [
     "vue",
@@ -11,7 +11,7 @@
     "hinting addresses"
   ],
   "homepage": "https://github.com/ikloster03/vue-dadata",
-  "repository": "https://github.com/ikloster03/vue-dadata",
+  "repository": "https://github.com/zhorapro/vue-dadata",
   "license": "MIT",
   "author": "Ivan Monastyrev <ikloster@yandex.ru>",
   "exports": {
